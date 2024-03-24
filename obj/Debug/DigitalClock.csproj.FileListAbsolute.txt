@@ -1,0 +1,10 @@
+D:\Code Relate Stuff\Projects\2024 Projects\2024 C#\DigitalClock\DigitalClock\bin\Debug\DigitalClock.exe.config
+D:\Code Relate Stuff\Projects\2024 Projects\2024 C#\DigitalClock\DigitalClock\bin\Debug\DigitalClock.exe
+D:\Code Relate Stuff\Projects\2024 Projects\2024 C#\DigitalClock\DigitalClock\bin\Debug\DigitalClock.pdb
+D:\Code Relate Stuff\Projects\2024 Projects\2024 C#\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csproj.AssemblyReference.cache
+D:\Code Relate Stuff\Projects\2024 Projects\2024 C#\DigitalClock\DigitalClock\obj\Debug\DigitalClock.Properties.Resources.resources
+D:\Code Relate Stuff\Projects\2024 Projects\2024 C#\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csproj.GenerateResource.cache
+D:\Code Relate Stuff\Projects\2024 Projects\2024 C#\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csproj.CoreCompileInputs.cache
+D:\Code Relate Stuff\Projects\2024 Projects\2024 C#\DigitalClock\DigitalClock\obj\Debug\DigitalClock.exe
+D:\Code Relate Stuff\Projects\2024 Projects\2024 C#\DigitalClock\DigitalClock\obj\Debug\DigitalClock.pdb
+D:\Code Relate Stuff\Projects\2024 Projects\2024 C#\DigitalClock\DigitalClock\obj\Debug\DigitalClock.digitalClock.resources
